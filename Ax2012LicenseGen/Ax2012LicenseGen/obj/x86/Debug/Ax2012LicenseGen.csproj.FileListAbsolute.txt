@@ -1,0 +1,22 @@
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.exe.config
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.FrmMain.resources
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.Properties.Resources.resources
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.exe
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.pdb
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.exe
+c:\users\shashi\documents\visual studio 2010\Projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.pdb
+C:\VS Projects\Test projects\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.exe.config
+C:\VS Projects\Test projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.exe
+C:\VS Projects\Test projects\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.pdb
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.exe.config
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.exe
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.pdb
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.exe
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\bin\Debug\Ax2012LicenseGen.pdb
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.csprojResolveAssemblyReference.cache
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.FrmMain.resources
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.Properties.Resources.resources
+E:\Dev\Ax2012LicenseGen\Ax2012LicenseGen\obj\x86\Debug\Ax2012LicenseGen.csproj.GenerateResource.Cache
