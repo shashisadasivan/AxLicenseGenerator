@@ -48,15 +48,15 @@ Example of the file Settings.xml
 ## Under the hood
 The command to create a license file is something like this
 
-'''
+```
 axutil genlicense /file:c:\licenses\MyLicense.txt /certificatepath:c:\certificates\MyCertificate.pfx /licenseCode:MyModule /customer:MyCustomer /serialnumber:1231232123 /password:MySecretPassword123
-'''
+```
 
 or 
 
-'''
+```
 axutil genlicense /file:c:\licenses\MyLicense.txt /certificatepath:c:\certificates\MyCertificate.pfx /licenseCode:MyModule /customer:MyCustomer /serialnumber:1231232123 /password:MySecretPassword123 /expirationdate:12/30/2018 /usercount:5
-'''
+```
 (expirtationdate and usercount flags are optional)
 
 This tool converts the settings and the values in the UI and runs it as a command as per above. 
